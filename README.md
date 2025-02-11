@@ -47,7 +47,7 @@ Cada requisição é processada pelo `CriptografiaController`, que chama os mét
 ### Passos
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/criptografia-app.git
+   git clone https://github.com/jardel-magalhaes/criptografia-app.git
    ```
 2. Navegue até o diretório do projeto:
    ```sh
